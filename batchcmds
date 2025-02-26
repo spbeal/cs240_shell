@@ -1,0 +1,8 @@
+gcc Hw1.c -o new
+./testprog 5 5
+./testprog 4 10
+./testprog 8 5
+./testprog 1 10
+./testprog 3 10
+./testprog 10 5
+ls -l
